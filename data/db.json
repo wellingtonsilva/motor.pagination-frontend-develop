@@ -1,0 +1,31 @@
+{
+  "states": [
+    { "id": 12, "name": "Acre", "acronym": "AC", "isClient": false, "flag_icon": "AC.png" },
+    { "id": 27, "name": "Alagoas", "acronym": "AL",  "isClient": false, "flag_icon": "AL.png" },
+    { "id": 16, "name": "Amapá", "acronym": "AP",  "isClient": false, "flag_icon": "AP.png" },
+    { "id": 13, "name": "Amazonas", "acronym": "AM",  "isClient": true, "flag_icon": "AM.png" },
+    { "id": 29, "name": "Bahia", "acronym": "BA",  "isClient": false, "flag_icon": "BA.png" },
+    { "id": 23, "name": "Ceará", "acronym": "CE",  "isClient": false, "flag_icon": "CE.png" },
+    { "id": 53, "name": "Distrito Federal", "acronym": "DF", "isClient": true, "flag_icon": "DF.png" },
+    { "id": 32, "name": "Espírito Santo", "acronym": "ES",  "isClient": false, "flag_icon": "ES.png" },
+    { "id": 52, "name": "Goiás", "acronym": "GO", "isClient": false, "flag_icon": "GO.png" },
+    { "id": 21, "name": "Maranhão", "acronym": "MA", "isClient": false, "flag_icon": "MA.png" },
+    { "id": 51, "name": "Mato Grosso", "acronym": "MT", "isClient": false, "flag_icon": "MT.png" },
+    { "id": 50, "name": "Mato Grosso do Sul", "acronym": "MS",  "isClient": true, "flag_icon": "MS.png" },
+    { "id": 31, "name": "Minas Gerais", "acronym": "MG", "isClient": false, "flag_icon": "MG.png" },
+    { "id": 15, "name": "Pará", "acronym": "PA", "isClient": false, "flag_icon": "PA.png" },
+    { "id": 25, "name": "Paraíba", "acronym": "PB", "isClient": false, "flag_icon": "PB.png" },
+    { "id": 41, "name": "Paraná", "acronym": "PR", "isClient": false, "flag_icon": "PR.png" },
+    { "id": 26, "name": "Pernambuco", "acronym": "PE", "isClient": false, "flag_icon": "PE.png" },
+    { "id": 22, "name": "Piauí", "acronym": "PI", "isClient": false, "flag_icon": "PI.png" },
+    { "id": 24, "name": "Rio Grande do Norte", "acronym": "RN", "isClient": false, "flag_icon": "RN.png" },
+    { "id": 43, "name": "Rio Grande do Sul", "acronym": "RS", "isClient": true, "flag_icon": "RS.png" },
+    { "id": 33, "name": "Rio de Janeiro", "acronym": "RJ",  "isClient": false, "flag_icon": "RJ.png" },
+    { "id": 11, "name": "Rondônia", "acronym": "RO",  "isClient": false, "flag_icon": "RO.png" },
+    { "id": 14, "name": "Roraima", "acronym": "RR",  "isClient": false, "flag_icon": "RR.png" },
+    { "id": 42, "name": "Santa Catarina", "acronym": "SC", "isClient": false, "flag_icon": "SC.png" },
+    { "id": 35, "name": "São Paulo", "acronym": "SP", "isClient": false, "flag_icon": "SP.png" },
+    { "id": 28, "name": "Sergipe", "acronym": "SE",  "isClient": false, "flag_icon": "SE.png" },
+    { "id": 17, "name": "Tocantins", "acronym": "TO", "isClient": true, "flag_icon": "TO.png" }
+  ]
+}
