@@ -1,6 +1,6 @@
 # Motor Pagination Frontend
 
-![Visual do projeto](./imgage.jpg)
+![Visual do projeto](./imgage.png)
 
 ## 🧰 Tecnologias
 
