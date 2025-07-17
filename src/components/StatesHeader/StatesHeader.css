@@ -1,0 +1,15 @@
+.states-header {
+  text-align: center;
+  margin-bottom: 24px;
+}
+
+.states-header h2 {
+  color: #333;
+  margin-bottom: 8px;
+  font-size: 1.8em;
+}
+
+.states-header p {
+  color: #666;
+  font-size: 1em;
+}

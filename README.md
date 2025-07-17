@@ -7,6 +7,7 @@
 - React
 - TypeScript
 - JSON Server
+- Context API
 - Vite
 - Axios
 - CSS purão
